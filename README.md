@@ -10,7 +10,7 @@ We provide the source code of the paper "Chinese food image recognition for diet
 - ConvNeXt and ConvNeXt V2  
   Please install the corresponding packages first: 
   - ConvNeXt: https://github.com/facebookresearch/ConvNeXt
-  - ConvNeXt V2: https://github.com/facebookresearch/ConvNeXt-V2 first.  
+  - ConvNeXt V2: https://github.com/facebookresearch/ConvNeXt-V2 first.   
   Then, you can fine-tune the models.
 
 ## Citation
