@@ -4,11 +4,11 @@ We provide the source code of the paper "Chinese food image recognition for diet
 
 ## Training
 
-- ResNet, DenseNet, ResNeXt, SENet, and Vision Transformer
+- ResNet, DenseNet, ResNeXt, SENet, and Vision Transformer  
   You can directly change the path of dataset and the corresponding model to train.
   
-- ConvNeXt and ConvNeXt V2
-  Please install the corresponding packages first:
+- ConvNeXt and ConvNeXt V2  
+  Please install the corresponding packages first: 
   - ConvNeXt: https://github.com/facebookresearch/ConvNeXt
   - ConvNeXt V2: https://github.com/facebookresearch/ConvNeXt-V2 first.
   Then, you can fineture the models.
