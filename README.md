@@ -1,6 +1,6 @@
 # Enhancing Dietary Management through Advanced Chinese Food Image Recognition: Performance Analysis and Optimization Strategies
 
-We provide the source code of the paper "Chinese food image recognition for dietary management: Performance improvement and analysis of recognition failures" for readers. This paper has been submitted to the journal "The Visual Computer" for review.
+We provide the source code of the paper "Enhancing Dietary Management through Advanced Chinese Food Image Recognition: Performance Analysis and Optimization Strategies" for readers. This paper has been submitted to the journal "The Visual Computer" for review.
 
 ## Training
 
